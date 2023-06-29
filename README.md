@@ -1,12 +1,18 @@
 # PizzaStore
 
 Created as part of learning path:
-Create web apps and services with ASP.NET Core, minimal API, and .NET
+Use a database with minimal API, Entity Framework Core, and ASP.NET Core
 
-https://learn.microsoft.com/en-us/training/paths/aspnet-core-minimal-api/
+https://learn.microsoft.com/en-us/training/modules/build-web-api-minimal-database/
 
-In this module, I learned how to create an API by using the minimal 
-API template for .NET 6.
+In this module, I learned to add a database to a minimal API 
+application with .NET 6 by using Entity Framework (EF) Core.
+
+EF Core is an easy way to manage data in .NET applications. It's a 
+lightweight, object-oriented, object-relational mapper that provides a 
+high-level abstraction over the database. In this module, you used 
+SQLite. You can also use other database providers like MySQL, 
+PostgreSQL, and Microsoft SQL Server.
 
 Minimal API enables you to create an API with only a few lines of code. 
 It has all the major features that you're used to like dependency 
@@ -23,5 +29,5 @@ Progressive enhancement: Add features when you need them. Until then,
 your program code stays small. .NET 6 latest features: Use all the 
 latest features from .NET 6 like top-level statements and records.
 
-As part of this module, you learned how to add Swagger. You also added 
+As part of this module, I learned how to add Swagger. I also added 
 routes to create, read, update, and delete a resource.
